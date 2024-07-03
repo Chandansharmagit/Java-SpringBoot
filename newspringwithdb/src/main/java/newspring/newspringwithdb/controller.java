@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class controller {
 
     // List<Employee> nn = new ArrayList<>();
-    @Autowired
+    // @Autowired
     service newsService = new serviceImple();
    
 
